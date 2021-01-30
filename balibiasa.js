@@ -57,7 +57,7 @@
 				document.getElementById('.').value="."
 				document.getElementById(',').value=","
 				document.getElementById('ai').value="ü"
-				document.getElementById('cha').value="È"
+				document.getElementById('cha').value="œ"
 				document.getElementById('/').value="/"
 				document.getElementById(';').value=":"
 			}else{
@@ -101,7 +101,7 @@
 				document.getElementById('.').value="."
 				document.getElementById(',').value=","
 				document.getElementById('ai').value="ü"
-				document.getElementById('cha').value="È"
+				document.getElementById('cha').value="œ"
 				document.getElementById('/').value="/"
 				document.getElementById(';').value=";"
 				c=0;
@@ -155,7 +155,7 @@
 				document.getElementById('.').value="."
 				document.getElementById(',').value=","
 				document.getElementById('ai').value="ü"
-				document.getElementById('cha').value="È"
+				document.getElementById('cha').value="œ"
 				document.getElementById('/').value="/"
 				document.getElementById(';').value=";"
 				
@@ -258,7 +258,7 @@
 				document.getElementById('.').value="."
 				document.getElementById(',').value=","
 				document.getElementById('ai').value="ü"
-				document.getElementById('cha').value="È"
+				document.getElementById('cha').value="œ"
 				document.getElementById('/').value="/"
 				document.getElementById(';').value=";"
 				document.getElementById('i').value="i"
