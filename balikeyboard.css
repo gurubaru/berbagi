@@ -1,21 +1,21 @@
 @font-face {
-    font-family: Bali Jelih;
+    font-family: balijelih;
     src:url('Bali Jelih std.eot');
 	src:url('Bali Jelih std.eot?#iefix') format('embedded-opentype'),
 	url('Bali Jelih std.woff') format('woff'),
-	url('Bali Jelih std.ttf') format('truetype'),
-	url('Bali Jelih std.svg#bali_simbar-bregular') format('svg');
+	url('balijelih.ttf') format('truetype'),
+	url('balijelih.svg#bali_simbar-bregular') format('svg');
     }
 
 .bali {
-    font-family: Bali Jelih;
+    font-family: balijelih;
 }
 .number,.alpha {
 	height: 35px;
 	width: 8.8%;
 	font-size: normal;
     border-radius: 1px;
-    font-family: Bali Jelih;
+    font-family: balijelih;
 	}
 .alpha:hover {
     background-color: rgb(12, 245, 101);
