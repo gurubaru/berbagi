@@ -48,7 +48,7 @@
     .floatscroll{top:0}
     .floatno-scroll{top:-55px;}
     .jpthemeMenu .menu-toggle{display:none}
-    .jpthemeMenu .back-toggle{display:block!important}}
+    .jpthemeMenu .back-toggle{display:inline!important}}
     .jpthemeMenu .back-toggle{display:none}                            
         .tutuppesan{
         position:fixed;
