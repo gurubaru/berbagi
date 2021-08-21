@@ -1,0 +1,35 @@
+.otonan{
+    font-size: 14pt;
+    background-image: linear-gradient(to right,white, yellow, red);
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 20px;
+}
+.suka{
+    font-size: 12pt;
+    background-image: linear-gradient(to right,white,rgb(11, 248, 11));
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 20px;
+}
+.duka{
+    font-size: 12pt;
+    background-image: linear-gradient(to right,white,rgb(248, 224, 11));
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 20px;
+}
+.pati{
+    font-size: 12pt;
+    background-image: linear-gradient(to right,white,rgb(20, 3, 2));
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 20px;
+}
+.lara{
+    font-size: 12pt;
+    background-image: linear-gradient(to right,white,rgb(248, 27, 11));
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 20px;
+}
