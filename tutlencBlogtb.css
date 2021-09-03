@@ -1,3 +1,8 @@
-.tutlencBlogtb td{
-background-color:#A0A0A0;
-color:#fff;}
+td{
+  background-image: linear-gradient(to right, black,rgb(44, 42, 42), rgb(75, 73, 73));
+  color: white;
+  padding-left:10px;
+  padding-right: 15px;
+  font-size: 12pt;
+  font-family: 'Courier New', Courier, monospace;
+}
